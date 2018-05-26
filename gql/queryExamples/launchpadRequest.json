@@ -1,0 +1,1 @@
+{"query":"query{launchpad(specific:\"kwajalein_atoll\"){id full_name status location{name region latitude longitude} vehicles_launched details}}"}

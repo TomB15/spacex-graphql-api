@@ -1,0 +1,1 @@
+{"query" : "query{capsuleDetail{capsule_serial capsule_id status original_launch missions landings type details}}"}

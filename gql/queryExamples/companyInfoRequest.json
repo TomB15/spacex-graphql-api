@@ -1,0 +1,1 @@
+{"query" : "query{companyInfo{name founder founded employees vehicles launch_sites test_sites ceo coo cto cto_propulsion valuation headquarters{address city state} summary}}"}

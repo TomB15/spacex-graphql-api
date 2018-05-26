@@ -1,0 +1,1 @@
+{"query" : "query{detailedCore(specific: \"Merlin1A\"){core_serial block status original_launch missions rtls_attempt rtls_landings asds_attempt water_landing details}}"}
